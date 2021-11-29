@@ -28,7 +28,7 @@ namespace HelloWorld
                 double c = s + d;
                 if (c % 2 == 0)
                 {
-                    Console.WriteLine(c + "Çift sayıdır");
+                    Console.WriteLine(c + "selam");
                     break;
                 }
                 else Console.WriteLine(c + "Tek sayıdır");
